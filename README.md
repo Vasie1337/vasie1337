@@ -31,7 +31,6 @@
 </p>
 
 <h2 align="center"> 🔗 Socials</h2>
-
-![Discord](https://discord.c99.nl/widget/theme-4/1086621095228096583.png)
-
-
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/1086621095228096583.png" alt="Dc" />&nbsp;<br/>
+</p>
