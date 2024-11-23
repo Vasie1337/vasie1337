@@ -13,7 +13,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Go" width="40" height="40"/>
-</p>
+</p>  
 
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40"/>&nbsp;
@@ -25,10 +25,10 @@
 
 <h2 align="center">🔥My Stats</h2>
 
-![Vasie1337's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
-
-![Vasie1337's Stats](https://github-readme-stats.vercel.app/api?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats1" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats2" />&nbsp;
+</p>
 
 <h2 align="center"> 🔗 Socials</h2>
 
