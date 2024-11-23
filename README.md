@@ -26,7 +26,7 @@
 <h2 align="center">🔥My Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats1" />&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats1" />&nbsp;<br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats2" />&nbsp;
 </p>
 
