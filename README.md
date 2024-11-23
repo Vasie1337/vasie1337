@@ -25,8 +25,10 @@
 
 <h2 align="center">🔥My Stats</h2>
 
-![Vasie1337's Stats](https://github-readme-stats.vercel.app/api?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![Vasie1337's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+
+![Vasie1337's Stats](https://github-readme-stats.vercel.app/api?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 <h2 align="center"> 🔗 Socials</h2>
 
