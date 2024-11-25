@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I am Vasie</h1>
-
-<h2 align="center">🛠️ Languages and Tools</h2>
+<h2 align="center">🛠️ Skills</h2>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -20,14 +18,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySql" width="40" height="40"/>
 </p>
 
-<h2 align="center">🔥My Stats</h2>
+<h2 align="center">🔥 My Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats1" />&nbsp;<br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="Stats2" />&nbsp;
-</p>
-
-<h2 align="center"> 🔗 Socials</h2>
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/1086621095228096583.png" alt="Dc" />&nbsp;<br/>
 </p>
