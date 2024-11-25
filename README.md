@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I am Vasie</h1>
 
-<h2 align="center">💻 About me</h2>
-<p align="center">I am a 17 year old developer from the Netherlands. I started programming in C/C++ when i was 15.</p>
-
 <h2 align="center">🛠️ Languages and Tools</h2>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C++" width="40" height="40"/>&nbsp;
