@@ -1,4 +1,4 @@
-<h2 align="center">🛠️ Skills</h2>
+<h2 align="center">Skills</h2>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C" width="40" height="40"/>&nbsp;
@@ -18,7 +18,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="MySql" width="40" height="40"/>
 </p>
 
-<h2 align="center">🔥 My Stats</h2>
+<h2 align="center">Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vasie1337&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="Stats1" />&nbsp;<br/>
